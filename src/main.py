@@ -1,10 +1,8 @@
 # main.py
-"""
-Interfaz gráfica para la simulación Banco de Colombia (M/M/1 por cajero).
+""" Interfaz gráfica para la simulación Banco Nacional (M/M/1 por cajero).
 - Ejecuta réplicas por escenario (colas independientes por cajero).
 - Muestra logs, resumen y gráficos.
-- Exporta resultados a Excel (hojas por escenario).
-"""
+- Exporta resultados a Excel (hojas por escenario)."""
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog

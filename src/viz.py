@@ -1,11 +1,9 @@
 # viz.py
-"""
-Visualizaciones orientadas a M/M/1 por cajero:
+""" Visualizaciones orientadas a M/M/1 por cajero:
 - Histograma de tiempos de espera con curva KDE.
 - Conteos de retiros/pagos por cajero y por réplica (ambas vistas).
 - Tiempos de servicio por cajero, utilización por cajero, ρ por réplica.
-Mejoras: colores diferenciados, abreviaturas (ret/pg), y anotaciones numéricas sobre barras.
-"""
+Mejoras: colores diferenciados, abreviaturas (ret/pg), y anotaciones numéricas sobre barras. """
 
 import matplotlib.pyplot as plt
 import seaborn as sns

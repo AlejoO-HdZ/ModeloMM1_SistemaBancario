@@ -1,8 +1,6 @@
 # model.py
-"""
-Motor de simulación M/M/1 por cajero (colas independientes).
-Versión final: métricas y salidas orientadas a M/M/1 por cajero.
-"""
+""" Motor de simulación M/M/1 por cajero (colas independientes).
+Versión final: métricas y salidas orientadas a M/M/1 por cajero."""
 
 import math
 import numpy as np

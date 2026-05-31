@@ -29,7 +29,7 @@ Cada escenario se ejecuta con **n réplicas** de una jornada de 8 Horas/480 minu
 - pandas
 - matplotlib
 - openpyxl
-- seaborn (opcional para heatmap)
+- seaborn
 
 ## Instalación
 - Clonar el repositorio o Descargar ZIP
@@ -49,6 +49,7 @@ Cada escenario se ejecuta con **n réplicas** de una jornada de 8 Horas/480 minu
 - Exportación de resultados a **Excel**.
 - Gráficas comparativas de tiempos de espera, utilización y distribución de clientes.
 - Validación con la **Ley de Little** y fórmulas cerradas de M/M/1.
+- Factor de Utilizacion (p<1)(tasa llegadas<tasa servicio)
 
 ---
 
